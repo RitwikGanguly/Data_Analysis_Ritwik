@@ -1,2 +1,3 @@
 # Data_Analysis_Ritwik
-Here I will upload the data analysis mini tasks where one can polish there data analysis with python skill
+- Here I will upload the data analysis mini tasks where one can polish there data analysis with python skill
+- I will be added all of my projects very soon, stay connected
